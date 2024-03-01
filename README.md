@@ -1,6 +1,7 @@
 ### open-source software pull requests
 
 #### code
+- [https://github.com/opensearch-project/security/pull/4071] Log details for password verification requirements on plugin startup
 - [https://github.com/opensearch-project/OpenSearch/pull/11816]: Fix `painless` scripting language parsing of single-line comments
 - [https://github.com/opensearch-project/opensearch-js/pull/378]: Fix type definition of BulkOperation in OpenSearch JS client
 - [https://github.com/earthly/earthly/pull/1244]: implement `--required` ARGS in Earthfile
