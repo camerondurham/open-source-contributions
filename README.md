@@ -1,16 +1,22 @@
-### open-source software pull requests
+## Open-Source Contributions
 
-#### code
+### Code
+
+#### OpenSearch Project
 - [https://github.com/opensearch-project/security/pull/4071] Log details for password verification requirements on plugin startup
 - [https://github.com/opensearch-project/OpenSearch/pull/11816]: Fix `painless` scripting language parsing of single-line comments
 - [https://github.com/opensearch-project/opensearch-js/pull/378]: Fix type definition of BulkOperation in OpenSearch JS client
+
+#### Amazon
+
+#### Other Projects
 - [https://github.com/earthly/earthly/pull/1244]: implement `--required` ARGS in Earthfile
 - [https://github.com/amzn/ion-cli/pull/22]: implement CLI tests and build workflow
 - [https://github.com/amzn/ion-cli/pull/13]: add Dockerfile to build Rust, C FFI project
 - [https://github.com/oracle/helidon/pull/860]: fix error handling in project example error handling
 - [https://github.com/metalbear-co/mirrord/pull/182]: select container for mirrord to impersonate in k8s pod
 
-#### documentation
+### Documentation
 
 - [https://github.com/MicrosoftDocs/windows-uwp/pull/2998]: add context for `?` in Windows UMP Rust tutorial
 - [https://github.com/MicrosoftDocs/terminal/pull/193]: better details for Windows Terminal ssh profile creation
