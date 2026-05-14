@@ -11,6 +11,7 @@
 #### Amazon
 
 #### Other Projects
+- [https://github.com/aws/aws-cdk/pull/36150]: Add build-time validation for Policy Documents
 - [https://github.com/earthly/earthly/pull/1244]: implement `--required` ARGS in Earthfile
 - [https://github.com/amzn/ion-cli/pull/22]: implement CLI tests and build workflow
 - [https://github.com/amzn/ion-cli/pull/13]: add Dockerfile to build Rust, C FFI project
